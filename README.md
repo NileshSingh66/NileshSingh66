@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nilesh Singh</h1>
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Nilesh Singh">
+</p>
 
 <h3 align="center">B.Tech CSE Student | Full-Stack Developer | Aspiring Software Engineer</h3>
 
