@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nilesh Singh</h1>
 
-<h3 align="center">B.Tech CSE Student | Full-Stack Developer | Software Engineer</h3>
+<h3 align="center">B.Tech CSE Student | Full-Stack Developer | Aspiring Software Engineer</h3>
 
 ---
 
@@ -42,15 +42,12 @@ A full-stack job portal built with React.js, Node.js, Express.js and MongoDB.
 ### 🔹 Visitor Management System
 A full-stack visitor management application with QR-based check-in/check-out.
 
-### 🔹 Student Performance Prediction
-Machine Learning project using Python and Scikit-learn.
 
 ---
 
 ## 🏆 Achievements
 
 - 🏆 Odoo Hackathon 2026 Finalist
-- 💻 250+ LeetCode Problems Solved
 - 🚀 Built multiple full-stack projects
 
 ---
@@ -62,11 +59,24 @@ Machine Learning project using Python and Scikit-learn.
 </p>
 
 ---
-
 ## 🤝 Connect With Me
 
-<p>
+<p align="center">
+
   <a href="https://github.com/NileshSingh66">
-    GitHub
+    <img src="https://img.shields.io/badge/GitHub-NileshSingh66-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
+  <a href="mailto:nileshsingh63066@mail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/nilesh-singh-087b37290/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nilesh%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/Nilesh_Singh_/">
+    <img src="https://img.shields.io/badge/LeetCode-Nilesh_Singh_-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
 </p>
